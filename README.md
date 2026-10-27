@@ -1,7 +1,7 @@
 - 👋 Hi, I am Sudhanshu Kuthe
 - 👀 Interested in creating computational and predictive models in the field of Materials Science & Engineering
-- 🌱 Currently learning Hypothesis Testing and Deep Learning
-- 💞️ I am looking to collaborate in developing Machine learning assited models, applicable to metal industries
+- 🌱 Currently learning building AI agents
+- 💞️ I am looking to collaborate in developing LLMs/Machine learning assited models, applicable to metal industries
 - 📫 Send me email on kuthe@kth.se
 
 <!---
